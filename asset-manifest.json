@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/google_login_test/static/css/main.645ec03a.css",
+    "main.js": "/google_login_test/static/js/main.a452c0b9.js",
+    "static/js/453.9275ed80.chunk.js": "/google_login_test/static/js/453.9275ed80.chunk.js",
+    "index.html": "/google_login_test/index.html",
+    "main.645ec03a.css.map": "/google_login_test/static/css/main.645ec03a.css.map",
+    "main.a452c0b9.js.map": "/google_login_test/static/js/main.a452c0b9.js.map",
+    "453.9275ed80.chunk.js.map": "/google_login_test/static/js/453.9275ed80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.645ec03a.css",
+    "static/js/main.a452c0b9.js"
+  ]
+}
